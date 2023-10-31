@@ -1,5 +1,4 @@
-# PowerBI-Interactive_Dashboard
+# Sales Performance Analysis Dashboard
 
-<p>This Repo includes my Power BI dashboard projects:<p>
-<ol><li>Sales Report</li></ol>
+<p>This repository shows an interactive Power BI dashboard on sales analysis<p>
 <img src="Images/Sales_Dashboard.png"/>
